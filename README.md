@@ -1,2 +1,2 @@
-# portfolio-sorodesire
-Portfolio personnel de SORODESIRE | Développement Web &amp; Informatique
+# RESTO-sorodesire
+RESTO personnel de SORODESIRE | Développement Web &amp; Informatique
